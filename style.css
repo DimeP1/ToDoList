@@ -1,0 +1,4 @@
+form input[type="checkbox"]:checked{
+    color:pink;
+    text-decoration: line-through;
+}
